@@ -1,0 +1,1622 @@
+﻿[
+ {
+   "FIELD1": "England",
+   "FIELD2": "England - average",
+   "FIELD3": "England - average",
+   "FIELD4": "4434",
+   "FIELD5": "2248",
+   "FIELD6": "1179",
+   "FIELD7": "1008",
+   "FIELD8": "1627"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North East",
+   "FIELD3": "North East - average",
+   "FIELD4": "6783",
+   "FIELD5": "3112",
+   "FIELD6": "1823",
+   "FIELD7": "1848",
+   "FIELD8": "2553"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North East",
+   "FIELD3": "Darlington",
+   "FIELD4": "4045",
+   "FIELD5": "1546",
+   "FIELD6": "851",
+   "FIELD7": "1648",
+   "FIELD8": "1310"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North East",
+   "FIELD3": "County Durham",
+   "FIELD4": "6566",
+   "FIELD5": "3666",
+   "FIELD6": "1099",
+   "FIELD7": "1801",
+   "FIELD8": "3165"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North East",
+   "FIELD3": "Gateshead",
+   "FIELD4": "6407",
+   "FIELD5": "2990",
+   "FIELD6": "1846",
+   "FIELD7": "1571",
+   "FIELD8": "2623"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North East",
+   "FIELD3": "Hartlepool",
+   "FIELD4": "9631",
+   "FIELD5": "3335",
+   "FIELD6": "2995",
+   "FIELD7": "3301",
+   "FIELD8": "1922"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North East",
+   "FIELD3": "Middlesbrough",
+   "FIELD4": "6287",
+   "FIELD5": "2549",
+   "FIELD6": "2218",
+   "FIELD7": "1521",
+   "FIELD8": "1909"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North East",
+   "FIELD3": "Newcastle upon Tyne",
+   "FIELD4": "5572",
+   "FIELD5": "2451",
+   "FIELD6": "1657",
+   "FIELD7": "1464",
+   "FIELD8": "1809"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North East",
+   "FIELD3": "North Tyneside",
+   "FIELD4": "6075",
+   "FIELD5": "2143",
+   "FIELD6": "3341",
+   "FIELD7": "591",
+   "FIELD8": "1822"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North East",
+   "FIELD3": "Northumberland",
+   "FIELD4": "5172",
+   "FIELD5": "2434",
+   "FIELD6": "1091",
+   "FIELD7": "1647",
+   "FIELD8": "2243"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North East",
+   "FIELD3": "Redcar and Cleveland",
+   "FIELD4": "7359",
+   "FIELD5": "3393",
+   "FIELD6": "1771",
+   "FIELD7": "2196",
+   "FIELD8": "2891"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North East",
+   "FIELD3": "South Tyneside",
+   "FIELD4": "8695",
+   "FIELD5": "3988",
+   "FIELD6": "2667",
+   "FIELD7": "2040",
+   "FIELD8": "3339"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North East",
+   "FIELD3": "Stockton-on-Tees",
+   "FIELD4": "11177",
+   "FIELD5": "4481",
+   "FIELD6": "3655",
+   "FIELD7": "3040",
+   "FIELD8": "2789"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North East",
+   "FIELD3": "Sunderland",
+   "FIELD4": "7795",
+   "FIELD5": "3734",
+   "FIELD6": "1574",
+   "FIELD7": "2486",
+   "FIELD8": "3246"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North West",
+   "FIELD3": "North West - average",
+   "FIELD4": "4673",
+   "FIELD5": "2153",
+   "FIELD6": "1529",
+   "FIELD7": "990",
+   "FIELD8": "1387"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North West",
+   "FIELD3": "Blackburn with Darwen",
+   "FIELD4": "7709",
+   "FIELD5": "3297",
+   "FIELD6": "1446",
+   "FIELD7": "2965",
+   "FIELD8": "2774"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North West",
+   "FIELD3": "Blackpool",
+   "FIELD4": "8202",
+   "FIELD5": "3287",
+   "FIELD6": "2373",
+   "FIELD7": "2541",
+   "FIELD8": "2163"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North West",
+   "FIELD3": "Bolton",
+   "FIELD4": "2606",
+   "FIELD5": "1495",
+   "FIELD6": "180",
+   "FIELD7": "930",
+   "FIELD8": "1090"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North West",
+   "FIELD3": "Bury",
+   "FIELD4": "2990",
+   "FIELD5": "1362",
+   "FIELD6": "735",
+   "FIELD7": "892",
+   "FIELD8": "1171"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North West",
+   "FIELD3": "Cheshire East",
+   "FIELD4": "3750",
+   "FIELD5": "1324",
+   "FIELD6": "1123",
+   "FIELD7": "1303",
+   "FIELD8": "815"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North West",
+   "FIELD3": "Cheshire West and Chester",
+   "FIELD4": "6702",
+   "FIELD5": "3326",
+   "FIELD6": "2479",
+   "FIELD7": "896",
+   "FIELD8": "2269"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North West",
+   "FIELD3": "Cumbria",
+   "FIELD4": "3271",
+   "FIELD5": "831",
+   "FIELD6": "264",
+   "FIELD7": "2176",
+   "FIELD8": "487"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North West",
+   "FIELD3": "Halton",
+   "FIELD4": "5407",
+   "FIELD5": "3077",
+   "FIELD6": "1761",
+   "FIELD7": "569",
+   "FIELD8": "2229"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North West",
+   "FIELD3": "Knowsley",
+   "FIELD4": "10614",
+   "FIELD5": "4886",
+   "FIELD6": "3658",
+   "FIELD7": "2069",
+   "FIELD8": "3346"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North West",
+   "FIELD3": "Lancashire",
+   "FIELD4": "6297",
+   "FIELD5": "2986",
+   "FIELD6": "2608",
+   "FIELD7": "703",
+   "FIELD8": "1959"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North West",
+   "FIELD3": "Liverpool",
+   "FIELD4": "6519",
+   "FIELD5": "2960",
+   "FIELD6": "2423",
+   "FIELD7": "1136",
+   "FIELD8": "2117"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North West",
+   "FIELD3": "Manchester",
+   "FIELD4": "-",
+   "FIELD5": "-",
+   "FIELD6": "-",
+   "FIELD7": "-",
+   "FIELD8": "-"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North West",
+   "FIELD3": "Oldham",
+   "FIELD4": "4075",
+   "FIELD5": "1881",
+   "FIELD6": "2041",
+   "FIELD7": "154",
+   "FIELD8": "602"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North West",
+   "FIELD3": "Rochdale",
+   "FIELD4": "2560",
+   "FIELD5": "1542",
+   "FIELD6": "406",
+   "FIELD7": "612",
+   "FIELD8": "1224"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North West",
+   "FIELD3": "Salford",
+   "FIELD4": "5177",
+   "FIELD5": "2213",
+   "FIELD6": "1500",
+   "FIELD7": "1465",
+   "FIELD8": "1064"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North West",
+   "FIELD3": "Sefton",
+   "FIELD4": "5551",
+   "FIELD5": "2801",
+   "FIELD6": "1748",
+   "FIELD7": "1001",
+   "FIELD8": "1889"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North West",
+   "FIELD3": "St. Helens",
+   "FIELD4": "8592",
+   "FIELD5": "4916",
+   "FIELD6": "3357",
+   "FIELD7": "319",
+   "FIELD8": "3493"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North West",
+   "FIELD3": "Stockport",
+   "FIELD4": "5685",
+   "FIELD5": "2014",
+   "FIELD6": "2237",
+   "FIELD7": "1434",
+   "FIELD8": "886"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North West",
+   "FIELD3": "Tameside",
+   "FIELD4": "2050",
+   "FIELD5": "958",
+   "FIELD6": "389",
+   "FIELD7": "703",
+   "FIELD8": "594"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North West",
+   "FIELD3": "Trafford",
+   "FIELD4": "359",
+   "FIELD5": "73",
+   "FIELD6": "51",
+   "FIELD7": "235",
+   "FIELD8": "60"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North West",
+   "FIELD3": "Warrington",
+   "FIELD4": "5691",
+   "FIELD5": "4086",
+   "FIELD6": "1140",
+   "FIELD7": "464",
+   "FIELD8": "1788"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North West",
+   "FIELD3": "Wigan",
+   "FIELD4": "4247",
+   "FIELD5": "1424",
+   "FIELD6": "1512",
+   "FIELD7": "1310",
+   "FIELD8": "764"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "North West",
+   "FIELD3": "Wirral",
+   "FIELD4": "5494",
+   "FIELD5": "2914",
+   "FIELD6": "1756",
+   "FIELD7": "824",
+   "FIELD8": "1748"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "Yorkshire and the Humber",
+   "FIELD3": "Yorkshire and the Humber - average",
+   "FIELD4": "2971",
+   "FIELD5": "1814",
+   "FIELD6": "643",
+   "FIELD7": "514",
+   "FIELD8": "1371"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "Yorkshire and the Humber",
+   "FIELD3": "Barnsley",
+   "FIELD4": "3875",
+   "FIELD5": "2539",
+   "FIELD6": "807",
+   "FIELD7": "528",
+   "FIELD8": "1728"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "Yorkshire and the Humber",
+   "FIELD3": "Calderdale",
+   "FIELD4": "4801",
+   "FIELD5": "2335",
+   "FIELD6": "1252",
+   "FIELD7": "1214",
+   "FIELD8": "1657"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "Yorkshire and the Humber",
+   "FIELD3": "Bradford",
+   "FIELD4": ":",
+   "FIELD5": ":",
+   "FIELD6": ":",
+   "FIELD7": ":",
+   "FIELD8": ":"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "Yorkshire and the Humber",
+   "FIELD3": "Doncaster",
+   "FIELD4": "5252",
+   "FIELD5": "3235",
+   "FIELD6": "1529",
+   "FIELD7": "489",
+   "FIELD8": "2462"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "Yorkshire and the Humber",
+   "FIELD3": "East Riding of Yorkshire",
+   "FIELD4": "3542",
+   "FIELD5": "1924",
+   "FIELD6": "281",
+   "FIELD7": "1337",
+   "FIELD8": "1912"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "Yorkshire and the Humber",
+   "FIELD3": "Kingston upon Hull, City of",
+   "FIELD4": "2810",
+   "FIELD5": "2111",
+   "FIELD6": "316",
+   "FIELD7": "383",
+   "FIELD8": "1531"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "Yorkshire and the Humber",
+   "FIELD3": "Kirklees",
+   "FIELD4": "2052",
+   "FIELD5": "1399",
+   "FIELD6": "386",
+   "FIELD7": "267",
+   "FIELD8": "803"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "Yorkshire and the Humber",
+   "FIELD3": "Leeds",
+   "FIELD4": "2168",
+   "FIELD5": "1453",
+   "FIELD6": "273",
+   "FIELD7": "442",
+   "FIELD8": "1182"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "Yorkshire and the Humber",
+   "FIELD3": "North East Lincolnshire",
+   "FIELD4": "3959",
+   "FIELD5": "2009",
+   "FIELD6": "872",
+   "FIELD7": "1079",
+   "FIELD8": "1661"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "Yorkshire and the Humber",
+   "FIELD3": "North Lincolnshire",
+   "FIELD4": "6189",
+   "FIELD5": "4034",
+   "FIELD6": "1914",
+   "FIELD7": "241",
+   "FIELD8": "3215"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "Yorkshire and the Humber",
+   "FIELD3": "North Yorkshire",
+   "FIELD4": "3250",
+   "FIELD5": "1771",
+   "FIELD6": "824",
+   "FIELD7": "655",
+   "FIELD8": "1391"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "Yorkshire and the Humber",
+   "FIELD3": "Rotherham",
+   "FIELD4": "5434",
+   "FIELD5": "3395",
+   "FIELD6": "1528",
+   "FIELD7": "511",
+   "FIELD8": "2471"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "Yorkshire and the Humber",
+   "FIELD3": "Sheffield",
+   "FIELD4": "3090",
+   "FIELD5": "1874",
+   "FIELD6": "727",
+   "FIELD7": "489",
+   "FIELD8": "1410"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "Yorkshire and the Humber",
+   "FIELD3": "Wakefield",
+   "FIELD4": "3729",
+   "FIELD5": "2114",
+   "FIELD6": "638",
+   "FIELD7": "977",
+   "FIELD8": "1518"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "Yorkshire and the Humber",
+   "FIELD3": "York",
+   "FIELD4": ":",
+   "FIELD5": ":",
+   "FIELD6": ":",
+   "FIELD7": ":",
+   "FIELD8": ":"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "East Midlands",
+   "FIELD3": "East Midlands - average",
+   "FIELD4": "4318",
+   "FIELD5": "2299",
+   "FIELD6": "985",
+   "FIELD7": "1034",
+   "FIELD8": "1567"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "East Midlands",
+   "FIELD3": "Derby",
+   "FIELD4": "4372",
+   "FIELD5": "2926",
+   "FIELD6": "817",
+   "FIELD7": "629",
+   "FIELD8": "2399"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "East Midlands",
+   "FIELD3": "Derbyshire",
+   "FIELD4": "2346",
+   "FIELD5": "1323",
+   "FIELD6": "304",
+   "FIELD7": "719",
+   "FIELD8": "1010"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "East Midlands",
+   "FIELD3": "Leicester",
+   "FIELD4": "6853",
+   "FIELD5": "3510",
+   "FIELD6": "1266",
+   "FIELD7": "2077",
+   "FIELD8": "2677"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "East Midlands",
+   "FIELD3": "Leicestershire",
+   "FIELD4": "4128",
+   "FIELD5": "2291",
+   "FIELD6": "1316",
+   "FIELD7": "521",
+   "FIELD8": "1107"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "East Midlands",
+   "FIELD3": "Lincolnshire",
+   "FIELD4": "4387",
+   "FIELD5": "2108",
+   "FIELD6": "1158",
+   "FIELD7": "1122",
+   "FIELD8": "1470"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "East Midlands",
+   "FIELD3": "Northamptonshire",
+   "FIELD4": "4842",
+   "FIELD5": "2116",
+   "FIELD6": "927",
+   "FIELD7": "1799",
+   "FIELD8": "1447"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "East Midlands",
+   "FIELD3": "Nottingham",
+   "FIELD4": "4372",
+   "FIELD5": "2715",
+   "FIELD6": "974",
+   "FIELD7": "684",
+   "FIELD8": "1545"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "East Midlands",
+   "FIELD3": "Nottinghamshire",
+   "FIELD4": "4554",
+   "FIELD5": "2593",
+   "FIELD6": "1159",
+   "FIELD7": "803",
+   "FIELD8": "1870"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "East Midlands",
+   "FIELD3": "Rutland",
+   "FIELD4": "2988",
+   "FIELD5": "1747",
+   "FIELD6": "1064",
+   "FIELD7": "177",
+   "FIELD8": "988"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "West Midlands",
+   "FIELD3": "West Midlands - average",
+   "FIELD4": "4318",
+   "FIELD5": "2159",
+   "FIELD6": "1165",
+   "FIELD7": "995",
+   "FIELD8": "1738"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "West Midlands",
+   "FIELD3": "Birmingham",
+   "FIELD4": "1103",
+   "FIELD5": "453",
+   "FIELD6": "202",
+   "FIELD7": "448",
+   "FIELD8": "395"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "West Midlands",
+   "FIELD3": "Coventry",
+   "FIELD4": "8209",
+   "FIELD5": "4163",
+   "FIELD6": "1148",
+   "FIELD7": "2898",
+   "FIELD8": "3218"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "West Midlands",
+   "FIELD3": "Dudley",
+   "FIELD4": "5598",
+   "FIELD5": "3244",
+   "FIELD6": "1428",
+   "FIELD7": "926",
+   "FIELD8": "2740"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "West Midlands",
+   "FIELD3": "Herefordshire, County of",
+   "FIELD4": "1383",
+   "FIELD5": "571",
+   "FIELD6": "558",
+   "FIELD7": "254",
+   "FIELD8": "549"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "West Midlands",
+   "FIELD3": "Sandwell",
+   "FIELD4": "6356",
+   "FIELD5": "3668",
+   "FIELD6": "1333",
+   "FIELD7": "1354",
+   "FIELD8": "2782"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "West Midlands",
+   "FIELD3": "Shropshire",
+   "FIELD4": "4564",
+   "FIELD5": "2024",
+   "FIELD6": "2260",
+   "FIELD7": "280",
+   "FIELD8": "1764"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "West Midlands",
+   "FIELD3": "Solihull",
+   "FIELD4": "6328",
+   "FIELD5": "3046",
+   "FIELD6": "2607",
+   "FIELD7": "674",
+   "FIELD8": "2427"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "West Midlands",
+   "FIELD3": "Staffordshire",
+   "FIELD4": "3578",
+   "FIELD5": "1443",
+   "FIELD6": "919",
+   "FIELD7": "1216",
+   "FIELD8": "976"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "West Midlands",
+   "FIELD3": "Stoke-on-Trent",
+   "FIELD4": "6855",
+   "FIELD5": "4287",
+   "FIELD6": "1623",
+   "FIELD7": "946",
+   "FIELD8": "3680"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "West Midlands",
+   "FIELD3": "Telford and Wrekin",
+   "FIELD4": "8367",
+   "FIELD5": "4781",
+   "FIELD6": "3386",
+   "FIELD7": "200",
+   "FIELD8": "3739"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "West Midlands",
+   "FIELD3": "Walsall",
+   "FIELD4": "8403",
+   "FIELD5": "4691",
+   "FIELD6": "2203",
+   "FIELD7": "1509",
+   "FIELD8": "4218"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "West Midlands",
+   "FIELD3": "Warwickshire",
+   "FIELD4": "5991",
+   "FIELD5": "2541",
+   "FIELD6": "1902",
+   "FIELD7": "1548",
+   "FIELD8": "2039"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "West Midlands",
+   "FIELD3": "Wolverhampton",
+   "FIELD4": "3777",
+   "FIELD5": "1560",
+   "FIELD6": "601",
+   "FIELD7": "1616",
+   "FIELD8": "1232"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "West Midlands",
+   "FIELD3": "Worcestershire",
+   "FIELD4": "344",
+   "FIELD5": "151",
+   "FIELD6": "122",
+   "FIELD7": "71",
+   "FIELD8": "83"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "East of England",
+   "FIELD3": "East of England - average",
+   "FIELD4": "4745",
+   "FIELD5": "2652",
+   "FIELD6": "1354",
+   "FIELD7": "739",
+   "FIELD8": "1830"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "East of England",
+   "FIELD3": "Bedford",
+   "FIELD4": "5414",
+   "FIELD5": "3023",
+   "FIELD6": "2170",
+   "FIELD7": "222",
+   "FIELD8": "2076"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "East of England",
+   "FIELD3": "Cambridgeshire",
+   "FIELD4": "5248",
+   "FIELD5": "2787",
+   "FIELD6": "1571",
+   "FIELD7": "891",
+   "FIELD8": "1878"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "East of England",
+   "FIELD3": "Central Bedfordshire",
+   "FIELD4": "8820",
+   "FIELD5": "5518",
+   "FIELD6": "2701",
+   "FIELD7": "602",
+   "FIELD8": "3657"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "East of England",
+   "FIELD3": "Essex",
+   "FIELD4": "2782",
+   "FIELD5": "2050",
+   "FIELD6": "560",
+   "FIELD7": "173",
+   "FIELD8": "1266"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "East of England",
+   "FIELD3": "Hertfordshire",
+   "FIELD4": "5351",
+   "FIELD5": "2909",
+   "FIELD6": "939",
+   "FIELD7": "1503",
+   "FIELD8": "2233"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "East of England",
+   "FIELD3": "Luton",
+   "FIELD4": "6211",
+   "FIELD5": "3631",
+   "FIELD6": "1455",
+   "FIELD7": "1125",
+   "FIELD8": "2424"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "East of England",
+   "FIELD3": "Norfolk",
+   "FIELD4": "4762",
+   "FIELD5": "2427",
+   "FIELD6": "1697",
+   "FIELD7": "639",
+   "FIELD8": "1696"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "East of England",
+   "FIELD3": "Peterborough",
+   "FIELD4": "3881",
+   "FIELD5": "2441",
+   "FIELD6": "625",
+   "FIELD7": "815",
+   "FIELD8": "2036"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "East of England",
+   "FIELD3": "Southend-on-Sea",
+   "FIELD4": "7968",
+   "FIELD5": "3826",
+   "FIELD6": "3313",
+   "FIELD7": "829",
+   "FIELD8": "2143"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "East of England",
+   "FIELD3": "Suffolk",
+   "FIELD4": "4650",
+   "FIELD5": "2159",
+   "FIELD6": "1789",
+   "FIELD7": "702",
+   "FIELD8": "1632"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "East of England",
+   "FIELD3": "Thurrock",
+   "FIELD4": "5417",
+   "FIELD5": "2798",
+   "FIELD6": "1935",
+   "FIELD7": "685",
+   "FIELD8": "1686"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "London - average",
+   "FIELD4": "4887",
+   "FIELD5": "2429",
+   "FIELD6": "1206",
+   "FIELD7": "1253",
+   "FIELD8": "1751"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "City of London",
+   "FIELD4": "*",
+   "FIELD5": "*",
+   "FIELD6": "*",
+   "FIELD7": "*",
+   "FIELD8": "*"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Barking and Dagenham",
+   "FIELD4": "5404",
+   "FIELD5": "2803",
+   "FIELD6": "2413",
+   "FIELD7": "188",
+   "FIELD8": "2313"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Barnet",
+   "FIELD4": "1741",
+   "FIELD5": "515",
+   "FIELD6": "324",
+   "FIELD7": "903",
+   "FIELD8": "428"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Bexley",
+   "FIELD4": "5415",
+   "FIELD5": "2864",
+   "FIELD6": "2181",
+   "FIELD7": "370",
+   "FIELD8": "2436"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Brent",
+   "FIELD4": "5568",
+   "FIELD5": "2044",
+   "FIELD6": "802",
+   "FIELD7": "2722",
+   "FIELD8": "1742"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Bromley",
+   "FIELD4": "4002",
+   "FIELD5": "1618",
+   "FIELD6": "1371",
+   "FIELD7": "1013",
+   "FIELD8": "1193"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Camden",
+   "FIELD4": "6510",
+   "FIELD5": "3590",
+   "FIELD6": "1607",
+   "FIELD7": "1313",
+   "FIELD8": "2216"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Croydon",
+   "FIELD4": "6023",
+   "FIELD5": "3106",
+   "FIELD6": "1003",
+   "FIELD7": "1914",
+   "FIELD8": "2609"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Ealing",
+   "FIELD4": "5901",
+   "FIELD5": "3508",
+   "FIELD6": "1122",
+   "FIELD7": "1271",
+   "FIELD8": "2191"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Enfield",
+   "FIELD4": ":",
+   "FIELD5": ":",
+   "FIELD6": ":",
+   "FIELD7": ":",
+   "FIELD8": ":"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Greenwich",
+   "FIELD4": "6575",
+   "FIELD5": "2899",
+   "FIELD6": "779",
+   "FIELD7": "2897",
+   "FIELD8": "2036"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Hackney",
+   "FIELD4": "7373",
+   "FIELD5": "3630",
+   "FIELD6": "2608",
+   "FIELD7": "1135",
+   "FIELD8": "3463"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Hammersmith and Fulham",
+   "FIELD4": "10059",
+   "FIELD5": "5377",
+   "FIELD6": "3925",
+   "FIELD7": "757",
+   "FIELD8": "4171"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Haringey",
+   "FIELD4": "2155",
+   "FIELD5": "927",
+   "FIELD6": "793",
+   "FIELD7": "436",
+   "FIELD8": "734"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Harrow",
+   "FIELD4": "4242",
+   "FIELD5": "1916",
+   "FIELD6": "164",
+   "FIELD7": "2162",
+   "FIELD8": "1765"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Havering",
+   "FIELD4": "119",
+   "FIELD5": "36",
+   "FIELD6": "23",
+   "FIELD7": "59",
+   "FIELD8": "23"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Hillingdon",
+   "FIELD4": "2773",
+   "FIELD5": "1283",
+   "FIELD6": "1078",
+   "FIELD7": "413",
+   "FIELD8": "1103"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Hounslow",
+   "FIELD4": "7277",
+   "FIELD5": "4124",
+   "FIELD6": "1604",
+   "FIELD7": "1549",
+   "FIELD8": "3041"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Islington",
+   "FIELD4": "6266",
+   "FIELD5": "2899",
+   "FIELD6": "1634",
+   "FIELD7": "1733",
+   "FIELD8": "2499"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Lambeth",
+   "FIELD4": "6321",
+   "FIELD5": "2017",
+   "FIELD6": "1081",
+   "FIELD7": "3223",
+   "FIELD8": "1272"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Lewisham",
+   "FIELD4": "4241",
+   "FIELD5": "2203",
+   "FIELD6": "1269",
+   "FIELD7": "769",
+   "FIELD8": "1544"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Merton",
+   "FIELD4": "3385",
+   "FIELD5": "1678",
+   "FIELD6": "965",
+   "FIELD7": "742",
+   "FIELD8": "1183"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Newham",
+   "FIELD4": "1348",
+   "FIELD5": "510",
+   "FIELD6": "672",
+   "FIELD7": "167",
+   "FIELD8": "495"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Redbridge",
+   "FIELD4": "6380",
+   "FIELD5": "5066",
+   "FIELD6": "67",
+   "FIELD7": "1248",
+   "FIELD8": "1256"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Richmond upon Thames",
+   "FIELD4": "2191",
+   "FIELD5": "1173",
+   "FIELD6": "560",
+   "FIELD7": "458",
+   "FIELD8": "912"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Southwark",
+   "FIELD4": "5107",
+   "FIELD5": "1641",
+   "FIELD6": "720",
+   "FIELD7": "2746",
+   "FIELD8": "1159"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Sutton",
+   "FIELD4": "4065",
+   "FIELD5": "1850",
+   "FIELD6": "1020",
+   "FIELD7": "1196",
+   "FIELD8": "1347"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Tower Hamlets",
+   "FIELD4": "6383",
+   "FIELD5": "3089",
+   "FIELD6": "1209",
+   "FIELD7": "2085",
+   "FIELD8": "2523"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Waltham Forest",
+   "FIELD4": "4189",
+   "FIELD5": "2888",
+   "FIELD6": "38",
+   "FIELD7": "1263",
+   "FIELD8": "966"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Wandsworth",
+   "FIELD4": "5360",
+   "FIELD5": "3450",
+   "FIELD6": "98",
+   "FIELD7": "1812",
+   "FIELD8": "2519"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Kensington and Chelsea",
+   "FIELD4": "7802",
+   "FIELD5": "4341",
+   "FIELD6": "2841",
+   "FIELD7": "620",
+   "FIELD8": "3100"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Kingston upon Thames",
+   "FIELD4": "3522",
+   "FIELD5": "1684",
+   "FIELD6": "1305",
+   "FIELD7": "532",
+   "FIELD8": "1249"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "London",
+   "FIELD3": "Westminster",
+   "FIELD4": "11248",
+   "FIELD5": "5529",
+   "FIELD6": "4700",
+   "FIELD7": "1019",
+   "FIELD8": "3983"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South East",
+   "FIELD3": "South East - average",
+   "FIELD4": "3924",
+   "FIELD5": "2054",
+   "FIELD6": "997",
+   "FIELD7": "874",
+   "FIELD8": "1508"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South East",
+   "FIELD3": "Bracknell Forest",
+   "FIELD4": "3594",
+   "FIELD5": "3029",
+   "FIELD6": "381",
+   "FIELD7": "184",
+   "FIELD8": "2608"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South East",
+   "FIELD3": "Brighton and Hove",
+   "FIELD4": "3664",
+   "FIELD5": "1556",
+   "FIELD6": "772",
+   "FIELD7": "1336",
+   "FIELD8": "1057"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South East",
+   "FIELD3": "Buckinghamshire",
+   "FIELD4": "4325",
+   "FIELD5": "2404",
+   "FIELD6": "1184",
+   "FIELD7": "736",
+   "FIELD8": "1803"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South East",
+   "FIELD3": "East Sussex",
+   "FIELD4": "3709",
+   "FIELD5": "1845",
+   "FIELD6": "1373",
+   "FIELD7": "491",
+   "FIELD8": "1371"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South East",
+   "FIELD3": "Hampshire",
+   "FIELD4": "3440",
+   "FIELD5": "1815",
+   "FIELD6": "661",
+   "FIELD7": "963",
+   "FIELD8": "1255"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South East",
+   "FIELD3": "Isle of Wight",
+   "FIELD4": "-",
+   "FIELD5": "-",
+   "FIELD6": "-",
+   "FIELD7": "-",
+   "FIELD8": "-"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South East",
+   "FIELD3": "Kent",
+   "FIELD4": "3390",
+   "FIELD5": "1832",
+   "FIELD6": "657",
+   "FIELD7": "901",
+   "FIELD8": "1524"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South East",
+   "FIELD3": "Medway",
+   "FIELD4": "5985",
+   "FIELD5": "2956",
+   "FIELD6": "1696",
+   "FIELD7": "1333",
+   "FIELD8": "2052"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South East",
+   "FIELD3": "Milton Keynes",
+   "FIELD4": "8905",
+   "FIELD5": "5194",
+   "FIELD6": "3227",
+   "FIELD7": "484",
+   "FIELD8": "4246"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South East",
+   "FIELD3": "Oxfordshire",
+   "FIELD4": "7596",
+   "FIELD5": "3080",
+   "FIELD6": "1511",
+   "FIELD7": "3006",
+   "FIELD8": "2220"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South East",
+   "FIELD3": "Portsmouth",
+   "FIELD4": "3394",
+   "FIELD5": "1545",
+   "FIELD6": "1673",
+   "FIELD7": "176",
+   "FIELD8": "900"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South East",
+   "FIELD3": "Reading",
+   "FIELD4": "6657",
+   "FIELD5": "3979",
+   "FIELD6": "1743",
+   "FIELD7": "935",
+   "FIELD8": "2589"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South East",
+   "FIELD3": "Windsor and Maidenhead",
+   "FIELD4": "1783",
+   "FIELD5": "1023",
+   "FIELD6": "670",
+   "FIELD7": "90",
+   "FIELD8": "677"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South East",
+   "FIELD3": "Slough",
+   "FIELD4": "5331",
+   "FIELD5": "3766",
+   "FIELD6": "1387",
+   "FIELD7": "178",
+   "FIELD8": "2287"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South East",
+   "FIELD3": "Southampton",
+   "FIELD4": "4163",
+   "FIELD5": "1910",
+   "FIELD6": "1174",
+   "FIELD7": "1080",
+   "FIELD8": "1582"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South East",
+   "FIELD3": "Surrey",
+   "FIELD4": "2518",
+   "FIELD5": "1323",
+   "FIELD6": "799",
+   "FIELD7": "397",
+   "FIELD8": "909"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South East",
+   "FIELD3": "West Berkshire",
+   "FIELD4": "6139",
+   "FIELD5": "3980",
+   "FIELD6": "1004",
+   "FIELD7": "1154",
+   "FIELD8": "2545"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South East",
+   "FIELD3": "West Sussex",
+   "FIELD4": "2624",
+   "FIELD5": "1399",
+   "FIELD6": "650",
+   "FIELD7": "575",
+   "FIELD8": "1058"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South East",
+   "FIELD3": "Wokingham",
+   "FIELD4": "5814",
+   "FIELD5": "3938",
+   "FIELD6": "1040",
+   "FIELD7": "836",
+   "FIELD8": "2623"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South West",
+   "FIELD3": "South West - average",
+   "FIELD4": "4374",
+   "FIELD5": "1986",
+   "FIELD6": "1157",
+   "FIELD7": "1231",
+   "FIELD8": "1429"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South West",
+   "FIELD3": "Bath and North East Somerset",
+   "FIELD4": "2812",
+   "FIELD5": "1728",
+   "FIELD6": "676",
+   "FIELD7": "408",
+   "FIELD8": "1385"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South West",
+   "FIELD3": "Poole",
+   "FIELD4": "3635",
+   "FIELD5": "1725",
+   "FIELD6": "865",
+   "FIELD7": "1045",
+   "FIELD8": "1278"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South West",
+   "FIELD3": "Bournemouth",
+   "FIELD4": "3566",
+   "FIELD5": "1560",
+   "FIELD6": "855",
+   "FIELD7": "1152",
+   "FIELD8": "1036"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South West",
+   "FIELD3": "Bristol, City of",
+   "FIELD4": "4382",
+   "FIELD5": "1538",
+   "FIELD6": "1229",
+   "FIELD7": "1616",
+   "FIELD8": "1332"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South West",
+   "FIELD3": "Cornwall",
+   "FIELD4": "6389",
+   "FIELD5": "3080",
+   "FIELD6": "1831",
+   "FIELD7": "1479",
+   "FIELD8": "1763"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South West",
+   "FIELD3": "Devon",
+   "FIELD4": "3935",
+   "FIELD5": "1707",
+   "FIELD6": "1224",
+   "FIELD7": "1004",
+   "FIELD8": "1149"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South West",
+   "FIELD3": "Dorset",
+   "FIELD4": "3783",
+   "FIELD5": "1539",
+   "FIELD6": "989",
+   "FIELD7": "1255",
+   "FIELD8": "909"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South West",
+   "FIELD3": "Gloucestershire",
+   "FIELD4": "4434",
+   "FIELD5": "2127",
+   "FIELD6": "1043",
+   "FIELD7": "1264",
+   "FIELD8": "1625"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South West",
+   "FIELD3": "North Somerset",
+   "FIELD4": "4993",
+   "FIELD5": "2750",
+   "FIELD6": "1168",
+   "FIELD7": "1074",
+   "FIELD8": "2193"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South West",
+   "FIELD3": "Plymouth",
+   "FIELD4": "5421",
+   "FIELD5": "2418",
+   "FIELD6": "1535",
+   "FIELD7": "1468",
+   "FIELD8": "2169"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South West",
+   "FIELD3": "Somerset",
+   "FIELD4": "4421",
+   "FIELD5": "2321",
+   "FIELD6": "804",
+   "FIELD7": "1296",
+   "FIELD8": "1687"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South West",
+   "FIELD3": "South Gloucestershire",
+   "FIELD4": "6014",
+   "FIELD5": "2097",
+   "FIELD6": "1842",
+   "FIELD7": "2075",
+   "FIELD8": "1714"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South West",
+   "FIELD3": "Swindon",
+   "FIELD4": "4139",
+   "FIELD5": "1276",
+   "FIELD6": "1555",
+   "FIELD7": "1307",
+   "FIELD8": "1110"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South West",
+   "FIELD3": "Isles of Scilly",
+   "FIELD4": "*",
+   "FIELD5": "*",
+   "FIELD6": "*",
+   "FIELD7": "*",
+   "FIELD8": "*"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South West",
+   "FIELD3": "Torbay",
+   "FIELD4": "2890",
+   "FIELD5": "1461",
+   "FIELD6": "279",
+   "FIELD7": "1150",
+   "FIELD8": "988"
+ },
+ {
+   "FIELD1": "England",
+   "FIELD2": "South West",
+   "FIELD3": "Wiltshire",
+   "FIELD4": "3283",
+   "FIELD5": "1712",
+   "FIELD6": "814",
+   "FIELD7": "756",
+   "FIELD8": "1183"
+ }
+]
