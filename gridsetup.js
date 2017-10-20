@@ -10,7 +10,7 @@ var columnDefs = [
         },
         {headerName: "Unsuccessful", field: "FIELD6", columnGroupShow: 'open'},
         {headerName: "Outcome not known", field: "FIELD7", columnGroupShow: 'open'},
-        {headerName: "Success rate", valueGetter: 'Math.floor(data.FIELD5 / data.FIELD4 * 100) + " %"', volatile: true, cellRenderer: 'animateSlide'}
+        {headerName: "Success rate", valueGetter: 'Math.round(data.FIELD5 / data.FIELD4 * 100) + " %"', volatile: true, cellRenderer: 'animateSlide'}
     ]},
 
     // {headerName: "Successful outcome, CO validated", field: "FIELD8"}
