@@ -1,25 +1,5 @@
 ﻿[
  {
-   "FIELD1": "ONS Code",
-   "FIELD2": "Region & LA Code",
-   "FIELD3": "Region & LA  Name",
-   "FIELD4": "Setting a quit date",
-   "FIELD5": "Successful quitters\n(self-reported)",
-   "FIELD6": "Not quit",
-   "FIELD7": "Not known/lost \nto follow up",
-   "FIELD8": "Successful quitters (self-reported), confirmed by CO validation"
- },
- {
-   "FIELD1": "",
-   "FIELD2": "",
-   "FIELD3": "",
-   "FIELD4": "",
-   "FIELD5": "",
-   "FIELD6": "",
-   "FIELD7": "",
-   "FIELD8": ""
- },
- {
    "FIELD1": "E92000001",
    "FIELD2": "ENG",
    "FIELD3": "England",
