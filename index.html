@@ -1,0 +1,115 @@
+<html style="height: 100%;">
+<head>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+    <script src="https://unpkg.com/ag-grid-enterprise@13.3.1/dist/ag-grid-enterprise.js"></script>
+    <script src="gridsetup.js"></script>
+</head>
+<body style="height: 100%;">
+    <style>
+
+        .rag-green {
+            background-color: lightgreen;
+        }
+        .rag-amber {
+            background-color: lightsalmon;
+        }
+
+        .customExpandButton{
+            float:right;
+            margin-top: 5px;
+            margin-left: 3px;
+        }
+
+        .expanded {
+            animation-name: toExpanded;
+            animation-duration: 1s;
+            -ms-transform: rotate(180deg); /* IE 9 */
+            -webkit-transform: rotate(180deg); /* Chrome, Safari, Opera */
+            transform: rotate(180deg);
+        }
+
+        .collapsed {
+            color: rgb(255, 255, 255);
+            animation-name: toCollapsed;
+            animation-duration: 1s;
+            -ms-transform: rotate(0deg); /* IE 9 */
+            -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+            transform: rotate(0deg);
+        }
+
+        .customHeaderMenuButton{
+            margin-top: 5px;
+            margin-left: 4px;
+            float: left;
+        }
+
+        .customHeaderLabel{
+            margin-left: 5px;
+            margin-top: 3px;
+            float: left;
+        }
+
+        .customSortDownLabel{
+            float: left;
+            margin-left: 10px;
+            margin-top: 5px;
+        }
+
+        .customSortUpLabel{
+            float: left;
+            margin-left: 3px;
+            margin-top: 4px;
+        }
+
+        .customSortRemoveLabel{
+            float: left;
+            font-size: 11px;
+            margin-left: 3px;
+            margin-top: 6px;
+        }
+
+        .active {
+            color: rgb(255, 255, 255);
+        }
+
+
+
+        @keyframes  toExpanded{
+            from {
+                color: rgb(255, 255, 255);
+                -ms-transform: rotate(0deg); /* IE 9 */
+                -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+                transform: rotate(0deg);
+            }
+            to {
+                color: black;
+                -ms-transform: rotate(180deg); /* IE 9 */
+                -webkit-transform: rotate(180deg); /* Chrome, Safari, Opera */
+                transform: rotate(180deg);
+            }
+        }
+
+        @keyframes toCollapsed{
+            from {
+                color: black;
+                -ms-transform: rotate(180deg); /* IE 9 */
+                -webkit-transform: rotate(180deg); /* Chrome, Safari, Opera */
+                transform: rotate(180deg);
+            }
+            to {
+                color: rgb(255, 255, 255);
+                -ms-transform: rotate(0deg); /* IE 9 */
+                -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+                transform: rotate(0deg);
+            }
+        }
+
+    </style>
+
+
+<h2>Stop Smoking Services outcomes for each borough in England - 2016/2017</h2>
+<h3>adjusted per 100,000 smokers</h3>
+<div id="myGrid" style="width: 100%; height: calc(100% - 50px);" class="ag-blue"></div>
+</body>
+</html>
